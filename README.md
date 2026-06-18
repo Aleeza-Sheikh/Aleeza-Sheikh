@@ -1,16 +1,20 @@
-## Hi there 👋
+# Aleeza Sheikh | Data Analyst
 
-<!--
-**Aleeza-Sheikh/Aleeza-Sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I clean, analyze, and document data to drive confident decisions.** 
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+`Python` `Pandas` `SQL` `Excel` `Git` `GitHub` `Data Cleaning` `EDA`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Work
+**[DecodeLabs Data Quality Audit](https://github.com/Aleeza-Sheikh/decodeslabs-data-audit-project)** 
+Audited 10K+ financial transactions using Python/pandas. Resolved 6 critical data issues, including 94% reduction in duplicates and 100% standardization of monetary fields. Full ChangeLog documented.
+
+### 🎯 Current Focus
+Building end-to-end data projects that showcase data cleaning, analysis, and business communication. 
+
+### 📫 Let’s Connect
+**LinkedIn:** https://www.linkedin.com/in/aleeza-sheikh-744337339  
+**Email:** aleezaaleeza228@gmail.com
+
+---
+*Committed to turning messy data into business-ready assets.*
