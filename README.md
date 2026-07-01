@@ -30,7 +30,5 @@ Building end-to-end data projects that combine data cleaning, statistical analys
 
 LinkedIn: linkedin.com/in/aleeza-sheikh-744337339
 
-Email: aleezaaleeza228@gmail.com
-
 
 Turning messy data into business-ready insights, one project at a time.
