@@ -1,36 +1,38 @@
 Hi, I'm Aleeza Sheikh 👋
 
-Data Analyst | I clean, analyze, and document data to drive confident, data-backed decisions.
+Data Analyst | Python • Pandas • SQL • Excel
+I turn messy, real-world datasets into clean, reliable, decision-ready insights.
+
+📍 Hyderabad, Pakistan  |  💼 Open to Data Analyst roles  |  🔗 LinkedIn
+
 
 🛠️ Technical Skills
 
-Python Pandas NumPy SQL Excel Matplotlib Seaborn Git GitHub · Data Cleaning · Exploratory Data Analysis · Statistical Analysis · Data Storytelling
-
-📌 Featured: DecodeLabs Data Analytics Portfolio
-
-→ View the full portfolio
-
-A complete 4-project body of work from my DecodeLabs Data Analytics internship, covering the full analytics workflow — from raw data to business recommendations:
+Python Pandas NumPy SQL (SQLite) Excel Git & GitHub Data Cleaning Exploratory Data Analysis Data Visualization
 
 
-🧹 Data Audit & Cleaning — Resolved 6 data quality issues across a transactional dataset with formal change-log tracking, achieving 0% duplicate and date-format error rates.
+📌 Featured Project
 
-📊 Outlier Detection & Revenue Analysis — Used IQR vs. Z-Score methods on 1,200 orders to uncover a hidden VIP customer segment and identify that revenue is volume-driven, not price-driven.
+Decodelab Data Analytics Portfolio
+A 4-project portfolio from the DecodeLabs internship, covering the full analyst workflow — data auditing, exploratory analysis, SQL, and sales performance reporting.
 
-🗄️ SQL Business Querying — Designed a relational schema and wrote queries answering real revenue, fulfillment, and payment questions.
 
-📈 Sales Performance Analysis — Surfaced a critical fulfillment issue (cancellations + returns outpacing deliveries) and identified top marketing channels.
+Data Audit & Cleaning — resolved 6 data quality issues on a transactional dataset, achieving a 0% duplicate rate and 0% date-format error rate, with a formal change log
+Outlier Detection & Revenue Drivers — compared IQR vs. Z-Score outlier detection on 1,200 orders, identified a legitimate VIP customer segment, and found revenue is driven by order volume, not price
+SQL Analysis — designed a relational schema and wrote business-facing SQL queries covering revenue, fulfillment, and payment trends
+Sales Performance Analysis — flagged that cancelled + returned orders exceeded successful deliveries (45%+ of all orders), and identified Instagram and Email as top acquisition channels
+
 
 
 🎯 Current Focus
 
-Building end-to-end data projects that combine data cleaning, statistical analysis, and clear business communication — and actively looking for Data Analyst opportunities where I can apply these skills.
+Building a Power BI / Tableau dashboard project to pair with my Python and SQL work, and sharpening advanced SQL (window functions, joins across multiple tables).
 
-## 📬 Connect
 
-Feel free to explore each project folder for full notebooks, SQL files, and
-detailed write-ups. Open to feedback and opportunities — reach out via
-[LinkedIn](https://www.linkedin.com/in/aleeza-sheikh-744337339) or email me
-at aleezaaleeza228@gmail.com
+📫 Let's Connect
 
-Turning messy data into business-ready insights, one project at a time.
+LinkedIn: linkedin.com/in/aleeza-sheikh-744337339
+Email: available on request via LinkedIn
+
+
+Committed to turning messy data into business-ready assets.
