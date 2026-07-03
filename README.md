@@ -26,9 +26,11 @@ A complete 4-project body of work from my DecodeLabs Data Analytics internship, 
 
 Building end-to-end data projects that combine data cleaning, statistical analysis, and clear business communication — and actively looking for Data Analyst opportunities where I can apply these skills.
 
-📫 Let's Connect
+## 📬 Connect
 
-LinkedIn: linkedin.com/in/aleeza-sheikh-744337339
-
+Feel free to explore each project folder for full notebooks, SQL files, and
+detailed write-ups. Open to feedback and opportunities — reach out via
+[LinkedIn](https://www.linkedin.com/in/aleeza-sheikh-744337339) or email me
+at aleezaaleeza228@gmail.com
 
 Turning messy data into business-ready insights, one project at a time.
