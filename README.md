@@ -1,6 +1,6 @@
 Hi, I'm Aleeza Sheikh 👋
 
-Data Analyst | Python • Pandas • SQL • Excel I turn messy, real-world datasets into clean, reliable, decision-ready insights.
+Data Analyst | Python • Pandas • SQL • Excel. I turn messy, real-world datasets into clean, reliable, decision-ready insights.
 
 📍 Hyderabad, Pakistan  |  💼 Open to Data Analyst roles  |  www.linkedin.com/in/aleeza-sheikh
 
