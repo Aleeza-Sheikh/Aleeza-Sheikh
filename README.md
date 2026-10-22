@@ -4,7 +4,7 @@
 
 ### Data Analyst · Python · SQL · Machine Learning
 
-*I turn messy data into clear, actionable business insights.*
+*I expertly convert chaotic data into clear, actionable insights that empower business decisions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleeza-sheikh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleezaaleeza228@gmail.com)
@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About
 
-Data Science student at the **University of Sindh** with hands-on experience from **3 data internships**. Real-world data is full of missing values, duplicates, and outliers that hide the story. I clean it, analyze it, and turn it into recommendations a business can act on.
+Data Science student at the **University of Sindh** with hands-on experience from real-world data internships. Real-world data is full of missing values, duplicates, and outliers that hide the story. I clean it, analyze it, and turn it into recommendations a business can act on.
 
 🔍 **Open to:** Data Analyst roles and internships
 
@@ -50,3 +50,29 @@ Data Science student at the **University of Sindh** with hands-on experience fro
 ## 🚀 Featured Projects
 
 | Project | Description | Tools |
+|---|---|---|
+| [Excelerate: AI-Powered Data Analysis](https://github.com/Aleeza-Sheikh/Excelerate-AI-Powered-Data-Analysis-Internship-portfolio) | Participation analysis + Random Forest prediction on 8,000+ records | Python, Pandas, Seaborn, Scikit-learn |
+| [Decodelabs: Data Analytics Portfolio](https://github.com/Aleeza-Sheikh/Decodelab-data-analytics-portfolio) | Data cleaning, IQR vs Z-Score outliers, SQL + Python analysis of 1,200 orders | Python, SQL, Pandas |
+| [NextGenLearners: Data Science Portfolio](https://github.com/Aleeza-Sheikh/NextGenLearners-DataScience-Portfolio) | EDA, MySQL queries, dashboard, Decision Tree selection model | Python, MySQL, Dashboard |
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Data Analytics Job Simulation | Deloitte Australia (via Forage) | 2026 |
+| Quantitative Research Job Simulation | J.P. Morgan (via Forage) | 2026 |
+| AI in Action Job Simulation | Vista Equity Partners (via Forage) | 2026 |
+| Data Labeling Job Simulation | Forage Academy | 2026 |
+| Python for Data Science, AI & Development | IBM | 2025 |
+| Google AI Essentials | Google | 2025 |
+| Google Prompting Essentials Specialization | Google | 2025 |
+
+---
+
+<div align="center">
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/aleeza-sheikh) · aleezaaleeza228@gmail.com
+
+</div>
