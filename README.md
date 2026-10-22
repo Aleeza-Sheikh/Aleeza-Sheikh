@@ -1,34 +1,52 @@
-Hi, I'm Aleeza Sheikh 👋
+<div align="center">
 
-Data Analyst | Python • Pandas • SQL • Excel. I turn messy, real-world datasets into clean, reliable, decision-ready insights.
+# Aleeza Sheikh
 
-📍 Hyderabad, Pakistan  |  💼 Open to Data Analyst roles  |  www.linkedin.com/in/aleeza-sheikh
+### Data Analyst · Python · SQL · Machine Learning
 
-🛠️ Technical Skills
+*I turn messy data into clear, actionable business insights.*
 
-Python Pandas NumPy SQL (SQLite) Excel Matplotlib Seaborn Git & GitHub Data Cleaning Exploratory Data Analysis Data Visualization Statistical Analysis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleeza-sheikh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleezaaleeza228@gmail.com)
 
-📌 Featured Projects
-🔹 Decodelabs Data Analytics Portfolio
+</div>
 
-A 4-part project series from the DecodeLabs internship, covering the full analyst workflow — data auditing, exploratory analysis, SQL, and sales performance reporting.
+---
 
-Data Audit & Cleaning — resolved 6 data quality issues on a transactional dataset, achieving a 0% duplicate rate and 0% date-format error rate, with a formal change log
-Outlier Detection & Revenue Drivers — compared IQR vs. Z-Score outlier detection on 1,200 orders, identified a legitimate VIP customer segment, and found revenue is driven by order volume, not price (0.72 correlation)
-SQL Analysis — designed a relational schema and wrote business-facing SQL queries covering revenue, fulfillment, and payment trends
-Sales Performance Analysis — flagged that cancelled + returned orders exceeded successful deliveries (45%+ of all orders), and identified Instagram and Email as top acquisition channels
-🔹 NextGenLearners Applicant Analytics
+## 👩‍💻 About
 
-A 2-part project analyzing an applicant dataset for an ed-tech program, from raw data to actionable recruitment insights.
+Data Science student at the **University of Sindh** with hands-on experience from **3 data internships**. Real-world data is full of missing values, duplicates, and outliers that hide the story. I clean it, analyze it, and turn it into recommendations a business can act on.
 
-Data Cleaning (Week 1) — audited an 88-record applicant dataset in Pandas: resolved missing values by field-level justification, removed exact and email-based duplicates, standardized inconsistent text (domain names, casing) via a mapping dictionary, and converted dates/phone numbers to proper types — delivering a clean, analysis-ready 72-record dataset
-Exploratory Data Analysis (Week 2) — analyzed the cleaned dataset with Pandas, Matplotlib, and Seaborn to surface 8 actionable insights, including a 22.2% overall selection rate, UI/UX Design as the top domain (22 applications), and a data-quality gap where most applicants left "University" unspecified — recommending targeted outreach fixes
-🎯 Current Focus
+🔍 **Open to:** Data Analyst roles and internships
 
-Building a Power BI / Tableau dashboard project to pair with my Python and SQL work, and sharpening advanced SQL (window functions, joins across multiple tables).
+---
 
-📫 Let's Connect
+## 📊 Results I've delivered
 
-LinkedIn: linkedin.com/in/aleeza-sheikh 
+| Project | What I found | Impact |
+|---|---|---|
+| **Participation Analysis** (8,000+ records) | Internships were 63% of listings but only 21.7% participation (vs 83%+ elsewhere) | Recommended application-process redesign |
+| **Prediction Model** | Random Forest: 92.8% accuracy, 0.98 ROC-AUC | 4 recommendations with success metrics |
+| **E-commerce Orders** (1,200 orders) | 41% cancelled or returned | Fulfillment and marketing strategy |
+| **Outlier Detection** | IQR caught 8 high-value orders Z-Score missed | Proposed an Enterprise customer segment |
+| **Applicant Funnel** | 22.2% selected, Data Science had 56% rejection | Recommended mandatory portfolio-link field |
 
-Committed to turning messy data into business-ready assets.
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Also:** Seaborn · Matplotlib
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tools |
